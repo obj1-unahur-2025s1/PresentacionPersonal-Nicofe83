@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.png)
+![Logo UNAHUR](.Imagenes/UNAHUR.png)
 
 # Programación con objetos I
 ## Presentación Personal
@@ -9,7 +9,7 @@ Estoy empezando mi segundo año cursando en la UNAHUR y mi octava materia de la 
 
 Despues de trabajar por muchos años en el sistema bancario. Decidi empezar a trabajar por mi cuenta lo que me permitio poder adaptar mis tiempos para poder realizar la carrera.
 
-![Foto Familia](./Familia.png)
+![Foto Familia](.Imagenes/Familia.png)
 
 ### Otra Información
 - Si bien este no es mi primer contacto con github, son los primeros pasos que estoy dando con la herramienta
